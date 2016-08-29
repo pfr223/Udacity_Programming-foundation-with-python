@@ -1,0 +1,11 @@
+What steps would you take to write the Take a Break program?
+
+Step1: Wait for 2 hours
+Step2: Open browser
+Repeat
+
+Q: how to open the web browser in python
+A:  webbrowser . open ( 'http://www.python.org' )
+
+Q: python make program wait
+A: time.sleep()
